@@ -1,7 +1,6 @@
 # Hi 👋 I'm Ali Jrewa
 
 💻 **Backend Developer**  
-🇩🇪 Targeting **Germany** & 🌍 **Remote Opportunities**  
 🚀 Passionate about building scalable backend systems and clean architectures
 
 ---
@@ -68,7 +67,7 @@
 ---
 
 ## 🎯 Career Goals
-- Backend Developer role in **Germany**
+- Backend Developer role
 - Open to **Remote Backend Positions**
 - Work on scalable, production-level backend systems
 
