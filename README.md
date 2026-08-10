@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ali Jrewa
+# Hi 👋 I'm Ali Jriwah
 
 💻 **Full Stack Developer**
 🚀 Passionate about building scalable, secure, and high-performance web applications from frontend to backend.
