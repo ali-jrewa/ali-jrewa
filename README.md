@@ -113,7 +113,7 @@ A full-stack booking platform built with Spring Boot and React featuring secure 
 
 ## 📫 Contact
 
-- 📧 Email: **alifares.cr7aa@gmail.com**
+- 📧 Email: **alijriwah@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/ali-jrewa/**
 - 💻 GitHub: **https://github.com/ali-jrewa**
 
